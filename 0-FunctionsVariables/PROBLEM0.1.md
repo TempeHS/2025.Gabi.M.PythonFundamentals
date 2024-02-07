@@ -10,7 +10,8 @@ In a file called `indoor.py`, implement a program in Python that prompts the use
 
 ## Hints
 - Recall that input returns a str, per <https://docs.python.org/3/library/functions.html#input>.
-- Recall that a str comes with quite a few methods, per <https://docs.python.org/3/library/stdtypes.html#string-methods>.
+- Recall that a str comes with quite a few methods, per <https
+://docs.python.org/3/library/stdtypes.html#string-methods>.
 
 ## Before You Begin
 From the root of your repository execute `cd 0-FunctionsVariables` So your current working directory is ...		
