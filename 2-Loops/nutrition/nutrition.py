@@ -26,7 +26,7 @@ def fruit_calories_dict(fruit_name):
     # make capital to match dict key
     fruit_name = fruit_name.title()
 
-    if fruit_name in fruit_calories:
+    for fruit_name in fruit_calories:
         return fruit_calories[fruit_name]
     else:
         return None
